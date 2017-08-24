@@ -1,5 +1,5 @@
-title: Simple Python template
+title: Simple Go template
 
 plan:
-  - title: Python Snippet
+  - title: Go Snippet
     statement: statement.md
