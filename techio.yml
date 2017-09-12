@@ -1,5 +1,4 @@
-title: Simple Go template
-
+title: Simple Go Template
 plan:
-  - title: Go Snippet
-    statement: statement.md
+- title: Go Snippet
+  statement: statement.md
